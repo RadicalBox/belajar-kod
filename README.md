@@ -1,9 +1,9 @@
-# belajar-git
+# Belajar Kod
 
-Nak belajar guna Git untuk kegunaan sendiri atau untuk digunakan secara berkumpulan.
+Banyak sumber di internet untuk menjadi pengaturcara yang bagus. Kebanyakan sumber adalah dalam bahasa inggeris.
 
-Kita tau, Git ini bagus untuk merekod perkembangan kod kita. Namun ada sesetengah kita tidak dapat sumber untuk belajar yang mudah.
+Ruangan ini cuba mengumpulkan sebanyak mungkin panduan pengaturcaraan di dalam bahasa nusantara (Malaysia / Indonesia / Brunei / Singapura)
 
-Dengan adanya repositori dalam ** EduTribe **, anda pasti senang untuk mencari bahan rujukan.
+Moga ia memberi manfaat.
 
 
