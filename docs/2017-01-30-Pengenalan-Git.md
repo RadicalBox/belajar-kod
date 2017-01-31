@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Pengenalan Mengenai Git"
+date:   2017-01-30 16:16:01 -0600
+categories: git
+---
+
 # Pengenalan Mengenai Git
 
 ## Apakah Git? 
