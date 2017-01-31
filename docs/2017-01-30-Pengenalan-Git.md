@@ -28,7 +28,7 @@ Kemudian kita mulakan (initialise) Git kita di direktori tersebut
 $ git init
 '''
 
-Arahan init bermakna initialise. Arahan ini menyediakan segala alatan (tools) yang Git perlukan untuk mula merekod perubahan
+Arahan init bermakna 'initialise' atau memulakan. Arahan ini menyediakan segala alatan (tools) yang Git perlukan untuk mula merekod perubahan
 yang berlaku di dalam projek kita.
 
 Kalau anda lihat di dalam direktori tersebut (utk kes saya ialah direktori belajar-kod). Anda akan dapati ada direktori tersembunyi 
@@ -41,5 +41,14 @@ $ ls -a
 ..		.git		_config.yml
 
 '''
+
+## Peringkat-peringkat Git
+
+Git mempunyai 3 peringkat iaitu: perubahan, sementara & pengesahan. (modified, staged & commit). Secara umumnya dapat diringkaskan 
+melalui gambarajah seperti dibawah.
+
+![pengenalan git](../asset/pengenalan-git.png)
+
+
 
 
